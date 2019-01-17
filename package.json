@@ -1,0 +1,19 @@
+{
+  "name": "phaser-dev-env",
+  "version": "0.0.1",
+  "description": "A Straightforward Development Environment for Phaser 3 with Webpack, Babel, and ESlint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Phaser",
+    "Phaser",
+    "3",
+    "Webpack",
+    "Babel",
+    "ESlint"
+  ],
+  "author": "iam13islucky",
+  "license": "MIT"
+}
