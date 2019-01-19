@@ -66,4 +66,3 @@ If your pull request gets merged I'll add your name to the Authors in the README
     - [ ] Create CLI app that doesn't suck!
         - [ ] Make ESLint setup have multiple options
         - [ ] Make something like React-Scripts, it should be updateable to simplify Development
-        - [ ] 
