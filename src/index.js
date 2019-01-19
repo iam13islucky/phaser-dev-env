@@ -1,4 +1,17 @@
-const heading = document.createElement('h1')
-const text = document.createTextNode('Phaser Dev Env')
-heading.appendChild(text)
-document.body.appendChild(heading)
+import Phaser from 'phaser'
+
+import MainScene from './scenes/mainScene'
+
+const width = 800
+const height = 600
+
+const config = {
+	width,
+	height,
+	type: Phaser.AUTO,
+	scenes: { MainScene },
+}
+
+// eslint-disable-next-line
+const game = new Phaser.Game(config);
+
